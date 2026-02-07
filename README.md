@@ -2,7 +2,9 @@
 
 <div align="center">
 *   About ME!
+   
 *  This is my profile ;p
+
 *   Hi there!
    
 * 👂 My name is Cj
