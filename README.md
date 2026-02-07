@@ -1,12 +1,11 @@
 <h1 align="center">RAHHHHHHHHHHH</h1>
 
 <div align="center">
-   # MyProfile
+   MyProfile
 
    This is my Profile
 
    Hi there 👋
-
 * 👂 My name is Cj
      
 * 👩 Pronouns: she/they
