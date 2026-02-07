@@ -1,3 +1,5 @@
+<h1 align="center">RAHHHHHHHHHHH</h1>
+
 # MyProfile
 This is my Profile
 ### Hi there 👋
@@ -12,4 +14,4 @@ This is my Profile
 * ❤️ I love Gaming
 * ⚡ Fun fact: I love Sinigeng
 
-     <img src="[https://i.pinimg.com/736x/37/27/d4/3727d45aae3f165443622ab04dd3c3ae.jpg](https://media1.tenor.com/m/A_XixwIPZcgAAAAd/stan-twt-skeleton-banging-shield.gif)" />
+     <img src="https://tenor.com/en-GB/view/stan-twt-skeleton-banging-shield-raggghhh-tatas-skeleton-gif-285383495768827336" />
