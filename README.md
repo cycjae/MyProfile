@@ -3,9 +3,10 @@
 <div align="center">
    About ME!
 
-   This is my Profile
+   This is my profile ;p
 
    Hi there!
+   
 * 👂 My name is Cj
      
 * 👩 Pronouns: she/they
