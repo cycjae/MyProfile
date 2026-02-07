@@ -1,7 +1,7 @@
 <h1 align="center">RAHHHHHHHHHHH</h1>
 
 <div align="center">
-*   About ME!
+   About ME!
    
 *  This is my profile ;p
 
