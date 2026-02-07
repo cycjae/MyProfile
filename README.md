@@ -32,9 +32,9 @@
 
 <div align="center">
      <img src="https://images.steamusercontent.com/ugc/12807008392689159664/C0C5114D65CF7D8ADC45A2E8B7BAA7800C657695/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
-   <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=u8kzwq2hgsh3lb8i70d9lmvej&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u8kzwq2hgsh3lb8i70d9lmvej&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=000000&bar_color_cover=false&mode=dark">
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u8kzwq2hgsh3lb8i70d9lmvej&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true&bar_color=000000&mode=dark">
   </a>
 </p>
 </div>
