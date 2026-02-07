@@ -1,11 +1,9 @@
 <h1 align="center">RAHHHHHHHHHHH</h1>
 
 <div align="center">
-   About ME!
-
-   This is my profile ;p
-
-   Hi there!
+*   About ME!
+*  This is my profile ;p
+*   Hi there!
    
 * 👂 My name is Cj
      
