@@ -2,8 +2,11 @@
 
 <div align="center">
 # MyProfile
+
 This is my Profile
-### Hi there 👋
+
+Hi there 👋
+
 * 👂 My name is Cj
      
 * 👩 Pronouns: she/they
